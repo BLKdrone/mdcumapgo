@@ -14,10 +14,10 @@
 
 // import { sportPlacesSection } from "@/utils/constants";
 // import * as Location from "expo-location";
-import MapPlaceDetails from "@/componets/MapBottomSheetContents/MapPlaceDetails";
-import MapPlacesList from "@/componets/MapBottomSheetContents/MapPlacesList";
-import { useMarkerStore } from "@/hooks/zustand";
-import PopBusPolylines from "@/componets/MapOverlay/PopBusPolylines";
+// import MapPlaceDetails from "@/componets/MapBottomSheetContents/MapPlaceDetails";
+// import MapPlacesList from "@/componets/MapBottomSheetContents/MapPlacesList";
+// import { useMarkerStore } from "@/hooks/zustand";
+// import PopBusPolylines from "@/componets/MapOverlay/PopBusPolylines";
 
 
 
